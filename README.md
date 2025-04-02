@@ -1,4 +1,4 @@
-# <img src="image.png" alt="HTML IPTV Logo" width="200">
+# <img src="image.png" alt="HTML IPTV Logo" width="800">
 
 # htmliptv
 
